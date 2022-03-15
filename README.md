@@ -1,4 +1,4 @@
-### Hi, I'm Mehmet, I'm a software engineer and backend developer
+### Hi, I'm Mehmet, I'm a software engineer
 
 <!--
 **mceylan35/mceylan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
